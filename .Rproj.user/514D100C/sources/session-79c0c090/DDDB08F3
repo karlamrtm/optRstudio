@@ -3,7 +3,7 @@
     "path": "C:/Users/hp/Desktop/RStudio/OPT Rstudio/practico-1/trabajo1opt.qmd",
     "project_path": null,
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "1609513880",
     "contents": "",
     "dirty": false,
     "created": 1711166227609.0,
@@ -13,15 +13,15 @@
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "1,0",
+        "cursorPosition": "7,53",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1711166311,
+    "lastKnownWriteTime": 1711167800,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1711166311243,
+    "last_content_update": 1711167800442,
     "read_only": false,
     "read_only_alternatives": []
 }
